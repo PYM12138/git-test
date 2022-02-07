@@ -10,6 +10,5 @@ public class MainTest {
         System.out.println("hot-fix1");
         System.out.println("merge finish1");
         System.out.println("push,,,,");
-        sssssssss!
     }
 }
