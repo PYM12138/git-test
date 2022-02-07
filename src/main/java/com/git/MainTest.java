@@ -9,6 +9,6 @@ public class MainTest {
         System.out.println("master1");
         System.out.println("hot-fix1");
         System.out.println("merge finish1");
-        System.out.println("frist,,,,");
+
     }
 }
