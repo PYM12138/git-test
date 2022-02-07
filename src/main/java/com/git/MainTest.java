@@ -7,5 +7,6 @@ public class MainTest {
         System.out.println("3,commit");
         System.out.println("hot-fix");
         System.out.println("master1");
+        System.out.println("hot-fix1");
     }
 }
