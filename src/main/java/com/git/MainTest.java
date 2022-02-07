@@ -6,5 +6,6 @@ public class MainTest {
         System.out.println("2,commit");
         System.out.println("3,commit");
         System.out.println("hot-fix");
+        System.out.println("hot-fix1");
     }
 }
